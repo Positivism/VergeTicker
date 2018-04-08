@@ -1,4 +1,4 @@
-# VergeTicker
+# VergeTicker - Better Touch Tool
 ![example](https://i.imgur.com/Q9ka9st.png)
 
 1. Verge ticker for BetterTouchTool
